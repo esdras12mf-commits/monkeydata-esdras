@@ -1,0 +1,47 @@
+﻿[
+    {
+        "Nombre": "Babuino",
+        "Ubicacion": "África",
+        "Detalles": "Monos del Viejo Mundo muy sociables y adaptables.",
+        "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/baboon.jpg",
+        "Poblacion": 1000,
+        "Latitud": -1.957875,
+        "Longitud": 30.061885
+    },
+    {
+        "Nombre": "Mono araña",
+        "Ubicacion": "América Central y del Sur",
+        "Detalles": "Monos trepadores con extremidades largas y ágiles.",
+        "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/spider_monkey.jpg",
+        "Poblacion": 500,
+        "Latitud": 4.7110,
+        "Longitud": -74.0721
+    },
+    {
+        "Nombre": "Mono capuchino",
+        "Ubicacion": "América del Sur",
+        "Detalles": "Monos inteligentes con habilidades para usar herramientas.",
+        "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/capuchin.jpg",
+        "Poblacion": 300,
+        "Latitud": -3.4653,
+        "Longitud": -62.2159
+    },
+    {
+        "Nombre": "Mandril",
+        "Ubicacion": "África Occidental",
+        "Detalles": "Mono grande con colores vivos en la cara y trasero.",
+        "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/mandrill.jpg",
+        "Poblacion": 200,
+        "Latitud": 5.6037,
+        "Longitud": -0.1870
+    },
+    {
+        "Nombre": "Gibón",
+        "Ubicacion": "Asia",
+        "Detalles": "Mono arborícola conocido por su gran agilidad en los árboles.",
+        "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/gibbon.jpg",
+        "Poblacion": 150,
+        "Latitud": 15.8700,
+        "Longitud": 100.9925
+    }
+]
