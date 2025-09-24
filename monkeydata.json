@@ -1,182 +1,182 @@
 [
-    {
-        "Nombre": "Babuino",
-        "Ubicacion": "África",
-        "Detalles": "Monos del Viejo Mundo muy sociables y adaptables.",
-        "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/baboon.jpg",
-        "Poblacion": 1000,
-        "Latitud": -1.957875,
-        "Longitud": 30.061885
-    },
-    {
-        "Nombre": "Mono araña",
-        "Ubicacion": "América Central y del Sur",
-        "Detalles": "Monos trepadores con extremidades largas y ágiles.",
-        "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/spider_monkey.jpg",
-        "Poblacion": 500,
-        "Latitud": 4.711,
-        "Longitud": -74.0721
-    },
-    {
-        "Nombre": "Mono capuchino",
-        "Ubicacion": "América del Sur",
-        "Detalles": "Monos inteligentes con habilidades para usar herramientas.",
-        "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/capuchin.jpg",
-        "Poblacion": 300,
-        "Latitud": -3.4653,
-        "Longitud": -62.2159
-    },
-    {
-        "Nombre": "Mandril",
-        "Ubicacion": "África Occidental",
-        "Detalles": "Mono grande con colores vivos en la cara y trasero.",
-        "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/mandrill.jpg",
-        "Poblacion": 200,
-        "Latitud": 5.6037,
-        "Longitud": -0.187
-    },
-    {
-        "Nombre": "Gibón",
-        "Ubicacion": "Asia",
-        "Detalles": "Mono arborícola conocido por su gran agilidad en los árboles.",
-        "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/gibbon.jpg",
-        "Poblacion": 150,
-        "Latitud": 15.87,
-        "Longitud": 100.9925
-    },
-    {
-        "Nombre": "Macaco rhesus",
-        "Ubicacion": "Asia del Sur",
-        "Detalles": "Especie muy adaptativa que vive cerca de asentamientos humanos.",
-        "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/rhesus.jpg",
-        "Poblacion": 800,
-        "Latitud": 27.7172,
-        "Longitud": 85.324
-    },
-    {
-        "Nombre": "Mono aullador",
-        "Ubicacion": "América Central y del Sur",
-        "Detalles": "Famoso por sus fuertes vocalizaciones que se oyen a kilómetros.",
-        "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/howler.jpg",
-        "Poblacion": 400,
-        "Latitud": 9.7489,
-        "Longitud": -83.7534
-    },
-    {
-        "Nombre": "Langur gris",
-        "Ubicacion": "India",
-        "Detalles": "Monos sagrados en la cultura hindú, de rostro negro y cuerpo gris.",
-        "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/langur.jpg",
-        "Poblacion": 600,
-        "Latitud": 25.3176,
-        "Longitud": 82.9739
-    },
-    {
-        "Nombre": "Mono probóscide",
-        "Ubicacion": "Borneo",
-        "Detalles": "Conocido por su nariz grande y aspecto peculiar.",
-        "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/proboscis.jpg",
-        "Poblacion": 250,
-        "Latitud": 4.2105,
-        "Longitud": 114.7277
-    },
-    {
-        "Nombre": "Colobo rojo",
-        "Ubicacion": "África Oriental",
-        "Detalles": "Especie arbórea con pelaje rojizo muy llamativo.",
-        "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/red_colobus.jpg",
-        "Poblacion": 180,
-        "Latitud": -6.1659,
-        "Longitud": 39.2026
-    },
-    {
-        "Nombre": "Macaco japonés",
-        "Ubicacion": "Japón",
-        "Detalles": "Famoso por bañarse en aguas termales durante el invierno.",
-        "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/japanese_macaque.jpg",
-        "Poblacion": 500,
-        "Latitud": 36.2048,
-        "Longitud": 138.2529
-    },
-    {
-        "Nombre": "Mono ardilla",
-        "Ubicacion": "América del Sur",
-        "Detalles": "Pequeños y activos, viven en grandes grupos sociales.",
-        "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/squirrel_monkey.jpg",
-        "Poblacion": 700,
-        "Latitud": -2.1631,
-        "Longitud": -55.1266
-    },
-    {
-        "Nombre": "Mono dorado de nariz chata",
-        "Ubicacion": "China",
-        "Detalles": "Especie rara con un pelaje dorado y nariz peculiar.",
-        "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/golden_snub.jpg",
-        "Poblacion": 120,
-        "Latitud": 30.9756,
-        "Longitud": 112.2707
-    },
-    {
-        "Nombre": "Mono titi",
-        "Ubicacion": "América del Sur",
-        "Detalles": "Pequeños y tranquilos, suelen vivir en parejas monógamas.",
-        "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/titi.jpg",
-        "Poblacion": 350,
-        "Latitud": -10.3333,
-        "Longitud": -67.5
-    },
-    {
-        "Nombre": "Macaco de cola larga",
-        "Ubicacion": "Sudeste Asiático",
-        "Detalles": "Se adapta fácilmente a la vida cerca de los humanos.",
-        "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/longtailed_macaque.jpg",
-        "Poblacion": 900,
-        "Latitud": 1.3521,
-        "Longitud": 103.8198
-    },
-    {
-        "Nombre": "Uacarí calvo",
-        "Ubicacion": "Amazonas",
-        "Detalles": "Reconocible por su rostro rojo brillante y cuerpo peludo.",
-        "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/uakari.jpg",
-        "Poblacion": 220,
-        "Latitud": -3.4168,
-        "Longitud": -65.8561
-    },
-    {
-        "Nombre": "Mono verde",
-        "Ubicacion": "África Occidental",
-        "Detalles": "Muy común, vive en sabanas y bosques abiertos.",
-        "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/green_monkey.jpg",
-        "Poblacion": 750,
-        "Latitud": 13.4432,
-        "Longitud": -15.3101
-    },
-    {
-        "Nombre": "Mono narigudo dorado",
-        "Ubicacion": "China",
-        "Detalles": "Similar al mono dorado, vive en regiones montañosas frías.",
-        "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/snub_nosed.jpg",
-        "Poblacion": 130,
-        "Latitud": 31.2304,
-        "Longitud": 121.4737
-    },
-    {
-        "Nombre": "Mono lanudo",
-        "Ubicacion": "Andes",
-        "Detalles": "De pelaje denso, adaptado a zonas montañosas y frías.",
-        "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/woolly.jpg",
-        "Poblacion": 280,
-        "Latitud": -13.1631,
-        "Longitud": -72.545
-    },
-    {
-        "Nombre": "Mono patas",
-        "Ubicacion": "África Central",
-        "Detalles": "Muy veloz en el suelo, conocido como el 'mono corredor'.",
-        "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/patas.jpg",
-        "Poblacion": 400,
-        "Latitud": 7.3697,
-        "Longitud": 12.3547
-    }
+  {
+    "Nombre": "Babuino",
+    "Ubicacion": "África",
+    "Detalles": "Monos del Viejo Mundo muy sociables y adaptables.",
+    "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/baboon.jpg",
+    "Poblacion": 1000,
+    "Latitud": -1.957875,
+    "Longitud": 30.061885
+  },
+  {
+    "Nombre": "Mono araña",
+    "Ubicacion": "América Central y del Sur",
+    "Detalles": "Monos trepadores con extremidades largas y ágiles.",
+    "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/spider_monkey.jpg",
+    "Poblacion": 500,
+    "Latitud": 4.711,
+    "Longitud": -74.0721
+  },
+  {
+    "Nombre": "Mono capuchino",
+    "Ubicacion": "América del Sur",
+    "Detalles": "Monos inteligentes con habilidades para usar herramientas.",
+    "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/capuchin.jpg",
+    "Poblacion": 300,
+    "Latitud": -3.4653,
+    "Longitud": -62.2159
+  },
+  {
+    "Nombre": "Mandril",
+    "Ubicacion": "África Occidental",
+    "Detalles": "Mono grande con colores vivos en la cara y trasero.",
+    "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/mandrill.jpg",
+    "Poblacion": 200,
+    "Latitud": 5.6037,
+    "Longitud": -0.187
+  },
+  {
+    "Nombre": "Gibón",
+    "Ubicacion": "Asia",
+    "Detalles": "Mono arborícola conocido por su gran agilidad en los árboles.",
+    "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/gibbon.jpg",
+    "Poblacion": 150,
+    "Latitud": 15.87,
+    "Longitud": 100.9925
+  },
+  {
+    "Nombre": "Macaco rhesus",
+    "Ubicacion": "Asia del Sur",
+    "Detalles": "Especie muy adaptativa que vive cerca de asentamientos humanos.",
+    "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/rhesus.jpg",
+    "Poblacion": 800,
+    "Latitud": 27.7172,
+    "Longitud": 85.324
+  },
+  {
+    "Nombre": "Mono aullador",
+    "Ubicacion": "América Central y del Sur",
+    "Detalles": "Famoso por sus fuertes vocalizaciones que se oyen a kilómetros.",
+    "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/howler.jpg",
+    "Poblacion": 400,
+    "Latitud": 9.7489,
+    "Longitud": -83.7534
+  },
+  {
+    "Nombre": "Langur gris",
+    "Ubicacion": "India",
+    "Detalles": "Monos sagrados en la cultura hindú, de rostro negro y cuerpo gris.",
+    "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/langur.jpg",
+    "Poblacion": 600,
+    "Latitud": 25.3176,
+    "Longitud": 82.9739
+  },
+  {
+    "Nombre": "Mono probóscide",
+    "Ubicacion": "Borneo",
+    "Detalles": "Conocido por su nariz grande y aspecto peculiar.",
+    "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/proboscis.jpg",
+    "Poblacion": 250,
+    "Latitud": 4.2105,
+    "Longitud": 114.7277
+  },
+  {
+    "Nombre": "Colobo rojo",
+    "Ubicacion": "África Oriental",
+    "Detalles": "Especie arbórea con pelaje rojizo muy llamativo.",
+    "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/red_colobus.jpg",
+    "Poblacion": 180,
+    "Latitud": -6.1659,
+    "Longitud": 39.2026
+  },
+  {
+    "Nombre": "Macaco japonés",
+    "Ubicacion": "Japón",
+    "Detalles": "Famoso por bañarse en aguas termales durante el invierno.",
+    "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/japanese_macaque.jpg",
+    "Poblacion": 500,
+    "Latitud": 36.2048,
+    "Longitud": 138.2529
+  },
+  {
+    "Nombre": "Mono ardilla",
+    "Ubicacion": "América del Sur",
+    "Detalles": "Pequeños y activos, viven en grandes grupos sociales.",
+    "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/squirrel_monkey.jpg",
+    "Poblacion": 700,
+    "Latitud": -2.1631,
+    "Longitud": -55.1266
+  },
+  {
+    "Nombre": "Mono dorado de nariz chata",
+    "Ubicacion": "China",
+    "Detalles": "Especie rara con un pelaje dorado y nariz peculiar.",
+    "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/golden_snub.jpg",
+    "Poblacion": 120,
+    "Latitud": 30.9756,
+    "Longitud": 112.2707
+  },
+  {
+    "Nombre": "Mono titi",
+    "Ubicacion": "América del Sur",
+    "Detalles": "Pequeños y tranquilos, suelen vivir en parejas monógamas.",
+    "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/titi.jpg",
+    "Poblacion": 350,
+    "Latitud": -10.3333,
+    "Longitud": -67.5
+  },
+  {
+    "Nombre": "Macaco de cola larga",
+    "Ubicacion": "Sudeste Asiático",
+    "Detalles": "Se adapta fácilmente a la vida cerca de los humanos.",
+    "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/longtailed_macaque.jpg",
+    "Poblacion": 900,
+    "Latitud": 1.3521,
+    "Longitud": 103.8198
+  },
+  {
+    "Nombre": "Uacarí calvo",
+    "Ubicacion": "Amazonas",
+    "Detalles": "Reconocible por su rostro rojo brillante y cuerpo peludo.",
+    "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/uakari.jpg",
+    "Poblacion": 220,
+    "Latitud": -3.4168,
+    "Longitud": -65.8561
+  },
+  {
+    "Nombre": "Mono verde",
+    "Ubicacion": "África Occidental",
+    "Detalles": "Muy común, vive en sabanas y bosques abiertos.",
+    "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/green_monkey.jpg",
+    "Poblacion": 750,
+    "Latitud": 13.4432,
+    "Longitud": -15.3101
+  },
+  {
+    "Nombre": "Mono narigudo dorado",
+    "Ubicacion": "China",
+    "Detalles": "Similar al mono dorado, vive en regiones montañosas frías.",
+    "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/snub_nosed.jpg",
+    "Poblacion": 130,
+    "Latitud": 31.2304,
+    "Longitud": 121.4737
+  },
+  {
+    "Nombre": "Mono lanudo",
+    "Ubicacion": "Andes",
+    "Detalles": "De pelaje denso, adaptado a zonas montañosas y frías.",
+    "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/woolly.jpg",
+    "Poblacion": 280,
+    "Latitud": -13.1631,
+    "Longitud": -72.545
+  },
+  {
+    "Nombre": "Mono patas",
+    "Ubicacion": "África Central",
+    "Detalles": "Muy veloz en el suelo, conocido como el 'mono corredor'.",
+    "Imagen": "https://raw.githubusercontent.com/jamesmont/monkeys/main/patas.jpg",
+    "Poblacion": 400,
+    "Latitud": 7.3697,
+    "Longitud": 12.3547
+  }
 ]
